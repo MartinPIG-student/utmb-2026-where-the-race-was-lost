@@ -10,7 +10,8 @@ tracks**: where the time gap to the winner opens, and by what mechanism.
 **The four interactive charts are published on Tableau Public:**
 https://public.tableau.com/app/profile/martin.pigeau/viz/UTMB2026-Wheretheracewaslost/Figures
 
-**Full write-up (Notion):** _link to come_
+**Full write-up (Notion):**
+https://thin-carbon-1f5.notion.site/UTMB-2026-Where-the-race-was-lost-3d42162d13f78012abced0d1a6b911a9
 
 This repository holds only the data pipeline that produces the Excel workbook
 those charts read from — not the charts themselves, which are built and
