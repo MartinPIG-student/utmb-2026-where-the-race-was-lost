@@ -1,0 +1,5 @@
+# Analyse UTMB 2026 — dépendances
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10            # lissage du profil GPX, détection de tronçons
+openpyxl>=3.1          # lecture/écriture des .xlsx

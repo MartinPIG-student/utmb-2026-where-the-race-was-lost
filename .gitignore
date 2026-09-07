@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Fichiers temporaires Office / Tableau
+~*
+*.twbr
+
+# Classeur Tableau local (chemins de données absolus) — la version propre
+# vit sur Tableau Public
+*.twb
+*.twbx
+
+# Brouillons de rédaction (post LinkedIn / Notion) — hors dépôt
+*.docx
